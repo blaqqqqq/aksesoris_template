@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\aksesorismobil\aksesorismobil\bin\Debug\aksesorismobil.exe.config
+C:\Users\asus\source\repos\aksesorismobil\aksesorismobil\bin\Debug\aksesorismobil.exe
+C:\Users\asus\source\repos\aksesorismobil\aksesorismobil\bin\Debug\aksesorismobil.pdb
+C:\Users\asus\source\repos\aksesorismobil\aksesorismobil\obj\Debug\aksesorismobil.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\aksesorismobil\aksesorismobil\obj\Debug\aksesorismobil.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\aksesorismobil\aksesorismobil\obj\Debug\aksesorismobil.Form1.resources
+C:\Users\asus\source\repos\aksesorismobil\aksesorismobil\obj\Debug\aksesorismobil.Properties.Resources.resources
+C:\Users\asus\source\repos\aksesorismobil\aksesorismobil\obj\Debug\aksesorismobil.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\aksesorismobil\aksesorismobil\obj\Debug\aksesorismobil.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\aksesorismobil\aksesorismobil\obj\Debug\aksesorismobil.exe
+C:\Users\asus\source\repos\aksesorismobil\aksesorismobil\obj\Debug\aksesorismobil.pdb
+C:\Users\asus\source\repos\aksesorismobil\aksesorismobil\obj\Debug\aksesorismobil.Form2.resources
